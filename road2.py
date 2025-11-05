@@ -109,7 +109,7 @@ if files:
             progress = st.progress(0.0)
             total = len(df)
 
-            api_key = 'c3XHbxJPleK7qYyIzs9moDgxxu5sjRRW'
+            api_key = 'API_Key da API do routing da plataforma do TomTom'
         
             for idx, row in df.iterrows():
                 cp4_p, cp3_p = row.get("CPP1"), row.get("CPP2")
@@ -176,4 +176,5 @@ if files:
             )
 
    except Exception as e:
+
         st.error(f"Ocorreu um erro ao ler o ficheiro: {e}")
