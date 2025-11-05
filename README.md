@@ -51,4 +51,4 @@ Para isso, é utilizada uma combinação de APIs geográficas que permitem obter
 - **Linguagem de Programação:** Python
 - Framework Streamlit
 - API TomTom
-- Ficheiro .xlsx
+- Ficheiro .xlsx com código postal de origem e de destino
