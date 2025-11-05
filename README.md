@@ -46,3 +46,9 @@ Para isso, é utilizada uma combinação de APIs geográficas que permitem obter
 -	Automação total do processo de cálculo;
 -	Flexibilidade — pode ser adaptada a diferentes países e tipos de transporte;
 -	Futura integração com a logística por exemplo para planeamento de transportes.
+
+## 6. Ferramentas Utilizadas
+- **Linguagem de Programação:** Python
+- Framework Streamlit
+- API TomTom
+- Ficheiro .xlsx
