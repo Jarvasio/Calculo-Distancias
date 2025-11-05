@@ -20,7 +20,7 @@ Para isso, é utilizada uma combinação de APIs geográficas que permitem obter
 -	**Exemplos de APIs utilizadas:**
     - codigo-postal.pt
 
-Processamento adicional:
+**Processamento adicional:**
 -	Em alguns casos, o mesmo código postal pode corresponder a várias localizações.
 -	Para uniformizar o cálculo, é calculada a média das latitudes e média das longitudes, obtendo um ponto central representativo desse código postal.
 
