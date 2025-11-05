@@ -31,7 +31,8 @@ Processamento adicional:
   -	origem e destino: coordenadas GPS médias obtidas na etapa anterior;
   -	travelMode: define o tipo de transporte (car, pedestrian, bicycle, truck, etc.);
   -	traffic: opcional, para incluir tempo real de trânsito.
--	Principais resultados retornados:
+
+Principais resultados retornados:
   -	Distância total (em metros ou km);
   -	Tempo estimado de viagem;
   -	Itinerário e passos de navegação (opcional).
