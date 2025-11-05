@@ -28,9 +28,9 @@ Para isso, é utilizada uma combinação de APIs geográficas que permitem obter
 -	**Função:** Calcular a rota entre dois pontos GPS, considerando o modo de transporte.
 -	**Endpoint típico:** https://api.tomtom.com/routing/1/calculateRoute/{origem}:{destino}/json?travelMode={modo}&key={API_KEY}
 -	**Principais parâmetros:**
-   -	origem e destino: coordenadas GPS médias obtidas na etapa anterior;
-   -	travelMode: define o tipo de transporte (car, pedestrian, bicycle, truck, etc.);
-   -	traffic: opcional, para incluir tempo real de trânsito.
+ - origem e destino: coordenadas GPS médias obtidas na etapa anterior;
+ - travelMode: define o tipo de transporte (car, pedestrian, bicycle, truck, etc.);
+ -traffic: opcional, para incluir tempo real de trânsito.
 
 **Principais resultados retornados:**
   -	Distância total (em metros ou km);
