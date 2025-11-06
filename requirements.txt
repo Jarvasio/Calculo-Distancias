@@ -1,7 +1,5 @@
+openpyxl
 streamlit
 pandas
-openpyxl
-requests
-urllib
+requests 
 io
-re
